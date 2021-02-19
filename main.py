@@ -21,4 +21,5 @@ def estiminate_pi(n):
     #Counting all points
     num_point_total+=1
   
+  #CALCULATIOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOON
   return 4 * num_point_circle/num_point_total
