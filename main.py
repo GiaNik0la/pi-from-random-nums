@@ -18,7 +18,7 @@ def calculate_pi(n):
     #That's basicly sum of x and y squares
     social_distance_D = x**2 + y**2
     #Checking if point is inside compile
-    if distance <= 1:
+    if social_distance_D <= 1:
       #Counting points in circle
       point_in_circle+=1
     #Counting all points
