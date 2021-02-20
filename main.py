@@ -1,3 +1,6 @@
+#CALCULATIIIOOOOOOONS by Joma Tech and... code too basicaly
+
+
 #Just importing -_- boring
 import random
 
